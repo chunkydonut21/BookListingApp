@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="noconnection">No Connection</string>
+    <string name="nf">Nothing found</string>
+    <string name="error"> There is an error</string>
+
+</resources>
